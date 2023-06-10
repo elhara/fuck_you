@@ -1,1 +1,2 @@
-first README file
+# EURUSD-BOT
+EURUSD BOT
